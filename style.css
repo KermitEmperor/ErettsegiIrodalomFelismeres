@@ -1,0 +1,179 @@
+* {
+    --color1: #191a1b;
+    --color2: #1f2021;
+    --color3: #262728;
+    --color4: #2e2f30;
+    --textColor1: #ffffff;
+    --textColor2: #c7c7c7;
+    --entryColor1: #4f5051;
+    --entryColor2: #636464;
+}
+
+body {    
+    margin: 0;
+    background-color: var(--color1);
+    align-content: center;
+    justify-content: center;
+    display: flex;    
+}
+
+#centralDiv {
+    background-color: var(--color2);
+    width: 500px;
+    height: 100vh;    
+}
+
+
+h2, h3, h4 {
+    color: var(--textColor1);
+    text-align: center;
+}
+
+
+h3 {
+    color: orange;
+}
+
+h4 {
+    color: var(--textColor2)
+}
+
+button {
+    cursor: pointer;
+}
+
+input[type=text] {
+    border-style: solid;
+    border-radius: 2px;
+    border-width: 2px;
+    border-color: var(--entryColor2);
+    font-size: medium;
+    box-shadow: none;
+    text-shadow: none;
+    padding: 1px;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: 90%;
+    margin: 2px;
+    height: 35px;
+    background-color: var(--entryColor1);
+    color: var(--textColor2);
+}
+
+input[type=text]:focus-within {
+    border-color: rgb(200, 130, 0);
+    outline: none !important;
+}
+
+
+.writerContainer {        
+    padding: 0;    
+    width: calc(90% + 16px);
+    display: inline-flex;
+}
+
+#writer {
+    width: 90%;    
+}
+
+#previousWriter {
+    background-color: rgb(200, 130, 0);
+    border-color: rgb(166, 109, 2);
+    width: fit-content;
+    height: 41px;
+    border-style: solid;    
+    font-size: medium;
+    color: var(--textColor1);
+    border-radius: 2px;
+    border-width: 2px;
+    box-shadow: 0;
+    text-shadow: 0;
+    margin: 2px;
+    transition: 0.2s;
+}
+
+#previousWriter:hover {
+    background-color: rgb(237, 155, 2);
+}
+
+#previousWriter:active {
+    background-color: rgb(91, 59, 0);
+}
+
+#random, #check {
+    border-style: solid;
+    height: 35px;
+    font-size: medium;
+    color: var(--textColor1);
+    border-radius: 2px;
+    border-width: 2px;
+    box-shadow: 0;
+    text-shadow: 0;
+    margin: 2px;
+    transition: 0.2s;
+}
+
+
+#random {
+    background-color: rgb(200, 11, 11);
+    border-color: darkred;    
+}
+
+#random:hover {
+    background-color: rgb(255, 0, 0);
+}
+
+#random:active {
+    background-color: rgb(141, 9, 9);
+    transition: none;
+}
+
+#check {
+    background-color: rgb(58, 184, 121);
+    border-color: rgb(43, 136, 90);
+}
+
+
+#check:hover {
+    background-color: rgb(47, 252, 150);
+}
+
+#check:active {
+    background-color: rgb(44, 136, 90);
+    transition: none;
+}
+
+
+#EntryFields {    
+    display: flex;    
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.answer {
+    color: var(--textColor2);
+}
+
+.buttonContainer {
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+}
+
+.listContainer {
+    background-color: var(--color3);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.stuffContainer {
+    background-color: var(--color4);
+    width: 90%;
+    margin: 3px;
+}
+
+#download {
+    margin-left: auto;    
+}
