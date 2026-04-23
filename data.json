@@ -1,0 +1,311 @@
+[
+    {
+        "title": "Iliász",
+        "date": "Kr.e. 8. század (ókor)",
+        "author": "Homérosz",
+        "genre": "Eposz - trójai mondakör",
+        "characters": ["Akhilleusz", "Patroklosz", "Agamemnón" ,"Hektór", "Kasszandra", "Nesztór", "Briszéisz", "Priamosz"]
+    },
+    {
+        "title": "Odüsszeia",
+        "date": "Kr.e. 8. század (ókor)",
+        "author": "Homérosz",
+        "genre": "Eposz",
+        "characters": ["Odüsszeusz", "Penelopé", "Szkülla", "Nauszika", "Calypso", "Parisz", "Helené", "Télemakhosz", "Eürükkia"]
+    },
+    {
+        "title": "Antigoné",
+        "date": "Kr.e. 442 (ókor)",
+        "author": "Szophoklész",
+        "genre": "Tragédia",
+        "characters": ["Antigoné", "Iszméné", "Kreon", "Haimón", "Teresias", "Eurüdiké", "Laiosz", "Oidipusz", "Karinthosz", "Eteoklész", "Polüneikész"]
+    },
+    {
+        "title": "Isteni színjáték",
+        "date": "14. sz. 1308-1321 (középkor)",
+        "author": "Dante Alighieri",
+        "genre": "epikus költemény - emberiségköltemény",
+        "characters": ["Dante", "Vergilius", "Beatrice", "Szent Bernát"]
+    },
+    {
+        "title": "Dekameron",
+        "date": "14. sz. 1349-1353 (középkor)",
+        "author": "Giovanni Boccaccio",
+        "genre": "Novella",
+        "characters": ["Ciappelletto", "Cipolla barát", "Dioneo", "Neifile", "Martellino", "Lauretta", "Filoména", "Szaladin Szultán", "Melkizédek"]
+    },
+    {
+        "title": "Rómeó és Júlia",
+        "date": "1597 (reneszánsz)",
+        "author": "William Shakespeare",
+        "genre": "Tragédia",
+        "characters": ["Rómeó", "Júlia", "Tybalt", "Capulet", "Montague", "Benvolio", "Mercutio", "Lőrinc barát"]
+    },
+    {
+        "title": "Hamlet",
+        "date": "1600 (reneszánsz)",
+        "author": "William Shakespeare",
+        "genre": "Tragédia",
+        "characters": ["Ophelia", "Claudius", "Polonius", "Horatio", "Laertes", "Bernardo"]
+    },
+    {
+        "title": "Szentivánéji álom",
+        "date": "1595/96 (reneszánsz)",
+        "author": "William Shakespeare",
+        "genre": "Vígjáték",
+        "characters": ["Theseus", "Egéus", "Lysander", "Demetrius", "Philostrat", "Hippolyta", "Hermia", "Heléna", "Obreon", "Titania", "Puck"]
+    },
+    {
+        "title": "Szigeti veszedelem",
+        "date": "1651 (barokk)",
+        "author": "Zrínyi Miklós",
+        "genre": "Keresztény Eposz",
+        "characters": ["Szulimán", "Delimán", "Borbála", "Demirhám"]
+    },
+    {
+        "title": "Tartuffe",
+        "date": "1664 (klasszicizmus)",
+        "author": "Molière",
+        "genre": "Vígjáték / Komédia",
+        "characters": ["Orgon", "Penelle asszony", "Elmira", "Valér", "Mariene", "Cléante"]
+    },
+    {
+        "title": "A fösvény",
+        "date": "1668 (klasszicizmus)",
+        "author": "Molière",
+        "genre": "Vígjáték",
+        "characters": ["Harpagon", "Élise"]
+    },
+    {
+        "title": "Gulliver utazásai",
+        "date": "1726 (felvilágosodás)",
+        "author": "Jonathan Swift",
+        "genre": "Szatíra",
+        "characters": ["Lemuel Gulliver", "törpök", "óriások", "nyihahák"]
+    },
+    {
+        "title": "Candide",
+        "date": "1759 (felvilágosodás)",
+        "author": "Voltaire",
+        "genre": "Regény, Szatíra, Fejlődésregény, Tragédia, Pikareszk történet, Filozófiai fikció",
+        "characters": ["Pangloss", "Kunigunda", "Martin", "Cacambo"]
+    },
+    {
+        "title": "Dorottya",
+        "date": "1798 (komikus eposz)",
+        "author": "Csokonai Vitéz Mihály",
+        "genre": "Komikus eposz",
+        "characters": ["Rebeka", "Orsolya", "Carnevál", "Bordács", "Ecse", "Cserházy", "Amália", "Pegazus", "Szempő", "Opor"]
+    },
+    {
+        "title": "Bánk bán",
+        "date": "1819-20 (romantika)",
+        "author": "Katona József",
+        "genre": "tragédia, történelmi dráma",
+        "characters": ["Gertrudis", "Ottó", "Melinda", "Biberach", "Tiborc", "Petúr Bán", "Il Endre", "Myska bán", "Solom mester", "Mikhál", "Izidóra"]
+    },
+    {
+        "title": "Anyegin",
+        "date": "1833 (romantika)",
+        "author": "Puskin",
+        "genre": "regény",
+        "characters": ["Larina", "Tatjana", "Olga", "Filipjovna", "Vladimir Lenszkij"]
+    },
+    {
+        "title": "Csongor és Tünde",
+        "date": "1830 (romantika)",
+        "author": "Vörösmarty Mihály",
+        "genre": "romantikus dráma/filozófiai mesejáték, emberiségdráma",
+        "characters": ["Balga", "Dimitri", "Ilma", "Kalmár", "Mirígy", "Ördögfiak"]
+    },
+    {
+        "title": "Az Apostol",
+        "date": "1848 (romantika)",
+        "author": "Petőfi Sándor",
+        "genre": "elbeszélő költemény/romantikus",
+        "characters": ["Szilveszter"]
+    },
+    {
+        "title": "A helység kalapácsa",
+        "date": "1844 (romantika)",
+        "author": "Petőfi Sándor",
+        "genre": "Komikus eposz",
+        "characters": ["Fejenagy", "Erzsók", "Harangláb", "Kántor", "Márta", "Palkó"]
+    },
+    {
+        "title": "Az arany ember",
+        "date": "1872 (romantika)",
+        "author": "Jókai Mór",
+        "genre": "regény",
+        "characters": ["Tímár Mihály", "Noémi", "Timea", "Teréza mama", "Ali Csobradzsi", "Brazovics Atanáz", "Krisztyán Tódor"]
+    },
+    {
+        "title": "Vörös és fekete",
+        "date": "1830 (realizmus)",
+        "author": "Stendhal",
+        "genre": "pszichológiai regény",
+        "characters": ["Julien Sorel", "Madame de Rênal", "Mathilde de la Mole", "Monsieur de Rênal", "Marquis de La Mole"]
+    },
+    {
+        "title": "Goriot apó",
+        "date": "1835 (realizmus)",
+        "author": "Honoré de Balzac",
+        "genre": "regény",
+        "characters": ["Rastignac", "Vautrin", "Vauquerné", "Delphine", "Anastasie"]
+    },
+    {
+        "title": "Nóra",
+        "date": "1879 (analitikus dráma)",
+        "author": "Henrik Ibsen",
+        "genre": "realista dráma",
+        "characters": ["Nora", "Torvald (Helmer)", "Krogstad", "Lindéné"]
+    },
+    {
+        "title": "A vadkacsa",
+        "date": "1884 (analitikus dráma)",
+        "author": "Henrik Ibsen",
+        "genre": "realista dráma",
+        "characters": ["Hjalmar Ekdal", "Gina Ekdal", "Gregers Werle", "Hedvig", "Werle", "Ekdal"]
+    },
+    {
+        "title": "A köpönyeg",
+        "date": "1842 (realizmus)",
+        "author": "Nikolaj Vasziljevics Gogol",
+        "genre": "fikció, elbeszélés, hivatalnok novella, groteszk",
+        "characters": ["Akakij Akakijevics", "Basmacskin"]
+    },
+    {
+        "title": "Bűn és bűnhődés",
+        "date": "1866 (realizmus)",
+        "author": "Fjodor Mihajlovics Dosztojevszkij",
+        "genre": "eszmeregény regény",
+        "characters": ["Raszkolnyikov", "Dunya", "Lizaveta", "Prfirijj", "Szonja", "Razumihin"]
+    },
+    {
+        "title": "Ivan Iljics halála",
+        "date": "1886 (realizmus)",
+        "author": "Lev Tolsztoj",
+        "genre": "novella",
+        "characters": ["Ivan Iljics", "Praskovja Fjodorovna", "Pjotr Ivanovics", "Geraszim"]
+    },
+    {
+        "title": "Sirály",
+        "date": "1895 (realizmus)",
+        "author": "Anton Pavlovics Csehov",
+        "genre": "realista dráma",
+        "characters": ["Konstantin Trepljov", "Nyina Zsarécsznaja", "Triogorin Borisz", "Arkagyina Irina", "Nyikolajevna"]
+    },
+    {
+        "title": "Toldi estéje",
+        "date": "1854 (romantika)",
+        "author": "Arany János",
+        "genre": "elbeszélő költemény",
+        "characters": ["Toldi Mikéós", "Bence", "Nagy Lajos Király"]
+    },
+    {
+        "title": "Az ember tragédiája",
+        "date": "1861 (romantika)",
+        "author": "Madách Imre",
+        "genre": "emberiségköltemény",
+        "characters": ["Ádám", "Éva", "Lucifer", "Az Úr"]
+    },
+    {
+        "title": "Beszterce Ostroma",
+        "date": "1894 (romantika)",
+        "author": "Mikszáth Kálmán",
+        "genre": "regény - anedotikus regény, lélektani realista regény",
+        "characters": ["Pongrácz Istáv", "Estella", "Apolka", "Behency Pál és Károly", "Trnowszky-fivérek"]
+    },
+    {
+        "title": "Szent Péter esernyője",
+        "date": "1895 (romantika)",
+        "author": "Mikszáth Kálmán",
+        "genre": "regény",
+        "characters": ["Bélyi Veronka", "Bélyi János", "Gregorics Pál", "Wibra György"]
+    },
+    {
+        "title": "Az élet kapuja",
+        "date": "1919",
+        "author": "Herczeg Ferenc",
+        "genre": "történelmi kisregény",
+        "characters": ["Bakócz Tamás", "II. Julius páoa", "Giovanni de Medici bíboros", "Vertési Tamás", "Fiametta", "Chigi Augustino"]
+    },
+    {
+        "title": "Jónás könyve",
+        "date": "1938",
+        "author": "Babits Mihály",
+        "genre": "elbeszélő költemény",
+        "characters": ["Jónás"]
+    },
+    {
+        "title": "Jónás imája",
+        "date": "1938",
+        "author": "Babits Mihály",
+        "genre": "elbeszélő költemény",
+        "characters": ["Jónás (mint ima)"]
+    },
+    {
+        "title": "Úri muri",
+        "date": "1939",
+        "author": "Móricz Zsigmond",
+        "genre": "realista regény",
+        "characters": ["Szakhmáry Zoltán", "Csörgheő Csuli", "Rhédey Eszter", "Wagner", "Lekennczey Muki", "Borbíró", "Rozika"]
+    },
+    {
+        "title": "Tragédia",
+        "date": "1909",
+        "author": "Móricz Zsigmond",
+        "genre": "novella",
+        "characters": ["Kis János", "Sarudy falubeliek"]
+    },
+    {
+        "title": "Édes Anna",
+        "date": "1926",
+        "author": "Kosztolányi Dezső",
+        "genre": "pszichológiai regény",
+        "characters": ["Édes Anna", "Vizy úr", "Vizyné", "Jancsi"]
+    },
+    {
+        "title": "Az átváltozás",
+        "date": "1912",
+        "author": "Franz Kafka",
+        "genre": "elbeszélés",
+        "characters": ["Gregor Samsa"]
+    },
+    {
+        "title": "Kurázsi mama és gyermekei",
+        "date": "1939",
+        "author": "Bertolt Brecht",
+        "genre": "tragédia",
+        "characters": ["Fierling Anna", "Kurázsi mama", "tüsszi", "Eilif", "Kattrin"]
+    },
+    {
+        "title": "Godotra várva",
+        "date": "1948/49",
+        "author": "Samuel Beckett",
+        "genre": "abszurd dráma/tragikomédia",
+        "characters": ["Vladimir", "Estragon", "Pozzó", "Lucky"]
+    },
+    {
+        "title": "Adjátok vissza a hegyeimet!",
+        "date": "1949",
+        "author": "Wass Albert",
+        "genre": "történelmi regény",
+        "characters": ["Anikó", "Andris", "Durdukás"]        
+    },
+    {
+        "title": "Tóték",
+        "date": "1966",
+        "author": "Örkény István",
+        "genre": "abszurd dráma",
+        "characters": ["Őrnagy", "Tót Lajos", "Tótné Mariska", "Ágika", "Cipriani"]
+    },
+    {
+        "title": "Az ajtó",
+        "date": "1987",
+        "author": "Magda Szabó",
+        "genre": "pszichológiai regény",
+        "characters": ["Magda", "Emerenc", "Tibor"]
+    }
+
+]
