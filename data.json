@@ -4,20 +4,20 @@
         "date": "Kr.e. 8. század (ókor)",
         "author": "Homérosz",
         "genre": "Eposz - trójai mondakör",
-        "characters": ["Akhilleusz", "Patroklosz", "Agamemnón" ,"Hektór", "Kasszandra", "Nesztór", "Briszéisz", "Priamosz"]
+        "characters": ["Akhilleusz", "Patroklosz", "Agamemnón", "Hektór", "Kasszandra", "Nesztór", "Briszéisz", "Priamosz", "Parisz", "Helené"]
     },
     {
         "title": "Odüsszeia",
         "date": "Kr.e. 8. század (ókor)",
         "author": "Homérosz",
         "genre": "Eposz",
-        "characters": ["Odüsszeusz", "Penelopé", "Szkülla", "Nauszika", "Calypso", "Parisz", "Helené", "Télemakhosz", "Eürükkia"]
+        "characters": ["Odüsszeusz", "Penelopé", "Nauszika", "Calypso", "Télemakhosz", "Eürükleia"]
     },
     {
         "title": "Antigoné",
         "date": "Kr.e. 442 (ókor)",
         "author": "Szophoklész",
-        "genre": "Tragédia",
+        "genre": "Tragédia - Tébai mondakör",
         "characters": ["Antigoné", "Iszméné", "Kreon", "Haimón", "Teresias", "Eurüdiké", "Laiosz", "Oidipusz", "Karinthosz", "Eteoklész", "Polüneikész"]
     },
     {
